@@ -1,0 +1,20 @@
+black
+flake8
+isort
+loguru
+mkdocs
+pip
+python-dotenv
+tqdm
+typer
+-e .
+
+# Custom
+cdsapi
+polars
+pyarrow
+pandas
+cfgrib
+xarray
+ipykernel
+scipy
