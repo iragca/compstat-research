@@ -1,10 +1,43 @@
-# compstat-research
+<h1 align="center">Computational Statistics Research</h1>
+
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A repo for our group research project
+## How to work with this repo
+
+1. Install and create a virtual environment
+
+<div style="font-weight: bold; margin-bottom: 5px;">Linux/Powershell</div>
+
+```bash
+pip install virtualenv # install if you haven't
+virtualenv .venv # Create your python virtual environment
+```
+
+2. Activate the environment
+
+<div style="font-weight: bold; margin-bottom: 5px;">Linux</div>
+
+```bash
+.venv/Scripts/activate
+```
+
+<div style="font-weight: bold; margin-bottom: 5px;">Powershell</div>
+
+```powershell
+source .\.venv\Scripts\activate
+```
+
+3. Install the dependencies
+
+<div style="font-weight: bold; margin-bottom: 5px;">Linux/Powershell</div>
+
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Project Organization
 
