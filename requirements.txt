@@ -10,11 +10,7 @@ typer
 -e .
 
 # Custom
-cdsapi
 polars
 pyarrow
 pandas
-cfgrib
-xarray
 ipykernel
-scipy
