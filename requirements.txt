@@ -10,6 +10,9 @@ typer
 -e .
 
 # Custom
+cfgrib
+xarray
+netcd4
 polars
 pyarrow
 pandas
