@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Juanico"
+  given-names: "Hernel"
+- family-names: "Irag"
+  given-names: "Chris Andrei"
+  orcid: "https://orcid.org/0009-0005-0635-1666"
+- family-names: "Montesclaros"
+  given-names: "Frency Rayne"
+title: "Computational Statistics scripts and notebooks"
+version: 1.0.0
+date-released: "2025-02-07"
+repository-code: "https://github.com/iragca/compstat-research"
