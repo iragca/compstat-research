@@ -13,7 +13,7 @@ typer
 # Custom
 cfgrib
 xarray
-netcd4
+netcdf4
 polars
 pyarrow
 pandas
