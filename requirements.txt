@@ -17,6 +17,7 @@ netcdf4
 polars
 pyarrow
 pandas
+seaborn
 ipykernel
 ydata-profiling
 ipywidgets
