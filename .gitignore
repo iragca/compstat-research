@@ -2,7 +2,7 @@
 /data/external/
 /data/interim/
 /data/raw/
-.duckdb
+*.duckdb
 
 *.nc
 
