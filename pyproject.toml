@@ -19,9 +19,20 @@ classifiers = [
 ]
 requires-python = "~=3.10"
 dependencies = [
+    "cdsapi>=0.7.5",
+    "csapi>=0.0.8",
+    "dotenv>=0.9.9",
     "duckdb>=1.2.0",
+    "ipykernel>=6.29.5",
+    "loguru>=0.7.3",
+    "matplotlib>=3.10.1",
+    "netcdf4>=1.7.2",
+    "polars>=1.23.0",
     "pyarrow>=19.0.0",
+    "seaborn>=0.13.2",
     "timeout-decorator>=0.5.0",
+    "tqdm>=4.67.1",
+    "xarray>=2025.1.2",
 ]
 
 [tool.black]
